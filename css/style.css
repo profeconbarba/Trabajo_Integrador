@@ -1,0 +1,41 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.alertCentrado
+{
+    margin: auto;
+    width: 50%;
+}
+#contenedor
+{
+    width: 80%;
+    margin: auto;
+}
+.playa
+{
+    margin-left: 0px;
+    padding: 0px;
+}
+.espacio
+{
+    margin-top: 25px;
+    margin-left: 25px;
+
+}
+.color-fondo-gris
+{
+    background-color: #343a40;
+}
+.color-blanco
+{
+    color: white !important;
+}
+.color-azuloscuro
+{
+    background-color: steelblue;
+}
+.botonenviar
+{
+    background-color: #96c93e !important;
+}
